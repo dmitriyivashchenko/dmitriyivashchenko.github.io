@@ -1,0 +1,1 @@
+alert('Я Javascript из внешнего файла .js');
